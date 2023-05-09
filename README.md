@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @SDLangshaw
+I am working on a new project, blockchain based real world assets.
+
+motorcycle manufacturing project is on hold, indefinately.
 - 👀 I’m interested in all electric ⚡ motorcycles manufacturing
 - 🌱 I’m currently building our first prototype, the eMCycles E360.
 - 💞️ I’m looking to collaborate on software & 
